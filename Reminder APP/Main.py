@@ -53,7 +53,7 @@ lblMorH = Entry(window, bg="light blue")
 lblMorH.pack(side=TOP)
 
 lblw = Label(window, width=
-10, text="WWhat is the work-", bg="LightGreen")
+10, text="Work", bg="LightGreen")
 lblw.pack(side=TOP)
 
 innWORk = Entry(window, bg="LightBlue")
